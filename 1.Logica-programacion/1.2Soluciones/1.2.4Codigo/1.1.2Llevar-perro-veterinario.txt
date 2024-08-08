@@ -1,0 +1,16 @@
+Problema 2
+
+Llevar perro a doctor 
+
+1 Llamar para cita
+2 preparar al perro
+3 entrar al auto
+4 llegar a la clinica
+5 esperar ser llamado
+6 ser atendido
+7 tomar recetas y procedimientos a seguir
+8 pagar
+9 comprar medicamento
+10 regresar al carro
+11 regresar a casa
+12 seguir recomendaciones
