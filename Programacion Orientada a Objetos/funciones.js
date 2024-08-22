@@ -8,5 +8,9 @@ function createSuperHero(superpoder,secretName, alias){
     return superhero
 }
 
-createSuperHero('superfuerza','peter parker','spiderman')
-createSuperHero('rayo laser','tony stark','iron man')
+const spiderman = createSuperHero('superfuerza','peter parker','spiderman')
+const ironMan = createSuperHero('rayo laser','tony stark','iron man|1')
+console.log('funcion que crea un objeto')
+console.log('spiderman', spiderman)
+console.log('ironMan', ironMan)
+
